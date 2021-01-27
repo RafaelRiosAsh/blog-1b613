@@ -1,6 +1,9 @@
 title: Stackbit Ampersand Theme
-baseurl: '/blog-1b613.io'
-  #permalink: '/:title/'
+  
+url: 'https://rafaelriosash.github.io'
+
+baseurl: '/blog-1b613'
+permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
@@ -8,7 +11,7 @@ description: Medium inspired blogging theme for Stackbit
 layout_style: grid
 palette: green
 header:
-  title: "Semicolon;"
+  title: title
   logo_img: images/logo.svg
   logo_img_alt: Ampersand Logo
   has_nav: true
