@@ -1,6 +1,6 @@
 title: Stackbit Ampersand Theme
-baseurl: /
-permalink: '/:title/'
+baseurl: ''
+  #permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
@@ -8,7 +8,7 @@ description: Medium inspired blogging theme for Stackbit
 layout_style: grid
 palette: green
 header:
-  title: Ampersand
+  title: Semicolon;
   logo_img: images/logo.svg
   logo_img_alt: Ampersand Logo
   has_nav: true
